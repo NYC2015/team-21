@@ -8,3 +8,5 @@ Router.route('/', function () {
 
 Router.route('Signin');
 
+Router.route('Signup');
+Router.route('Usr');
