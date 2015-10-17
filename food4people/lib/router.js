@@ -11,3 +11,4 @@ Router.route('Signin');
 Router.route('Signup');
 Router.route('Usr');
 Router.route('Reserve');
+Router.route('hello');

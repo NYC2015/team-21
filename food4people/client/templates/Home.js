@@ -5,7 +5,7 @@ Template.Home.events({
 	Router.go('Signin');
     },
 "click .signin2": function () {
-	Router.go('Signin');
+	Router.go('hello');
     },
 
 "click .signup": function () {
