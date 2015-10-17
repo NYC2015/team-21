@@ -1,6 +1,6 @@
 
 
-Template.signup.events({
+Template.Signin.events({
 
 
 "click .signin": function () {
