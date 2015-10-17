@@ -1,10 +1,10 @@
 
 
-Template.Signin.events({
+Template.Signin2.events({
 
 
 "click .signin": function () {
-        Router.go('Usr');
+        Router.go('hello');
     }
 
 });

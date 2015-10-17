@@ -1,8 +1,14 @@
-Template.Reserve.events({
+Template.Usr.events({
 
 
-"click .Reserve": function () {
-        Router.go('Reserve');
+"click .StopShopR": function () {
+        Router.go('StopShopR');
+    },
+"click .WholeFoodsR": function () {
+        Router.go('WholeFoodsR');
+    },
+"click .FoodTownR": function () {
+        Router.go('FoodTownR');
     }
 
 });
