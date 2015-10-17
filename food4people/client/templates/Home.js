@@ -6,6 +6,4 @@ Template.Home.events({
     }
 
 
-
-
 });
